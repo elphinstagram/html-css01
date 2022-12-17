@@ -6,4 +6,15 @@ body {
 
 .jumbotron {
     text-align: center;
+    /* color: red;*/
 }  
+
+.btn-lg {
+    font-size: 36px;
+}
+
+/*
+.jumbotron p {
+  color: blue;  
+}
+*/
